@@ -11,16 +11,4 @@ public class E {
     public long ac() {
         return 222;
     }
-
-    public int af() {
-        return -1;
-    }
-
-    public Object gg() {
-        return return getClass().getClassLoader();
-    }
-
-    public java.lang.Class qq() {
-        return getClass();
-    }
 }

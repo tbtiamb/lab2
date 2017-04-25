@@ -1,4 +1,4 @@
-public class E {
+public class E extends null {
 
     private double j = 100.500;
 
@@ -12,6 +12,10 @@ public class E {
         return 222;
     }
 
+    public java.lang.Class qq() {
+        return getClass();
+    }
+
     public int af() {
         return -1;
     }
@@ -20,15 +24,15 @@ public class E {
         return return getClass().getClassLoader();
     }
 
-    public java.lang.Class qq() {
-        return getClass();
-    }
-
     public double ee() {
         return 500.100;
     }
 
     public byte oo() {
         return 1;
+    }
+
+    public Object rr() {
+        return null;
     }
 }

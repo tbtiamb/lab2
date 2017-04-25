@@ -7,4 +7,8 @@ public class I extends null {
     public java.util.List<String> jj() {
         return new java.util.ArrayList<String>();
     }
+
+    public byte oo() {
+        return 2;
+    }
 }

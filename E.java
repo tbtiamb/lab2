@@ -35,4 +35,8 @@ public class E extends null {
     public Object rr() {
         return null;
     }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
 }

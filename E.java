@@ -27,4 +27,8 @@ public class E {
     public double ee() {
         return 500.100;
     }
+
+    public byte oo() {
+        return 1;
+    }
 }

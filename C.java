@@ -4,11 +4,11 @@ public class C extends null {
 
     byte oo();
 
-    public String kk() {
-        return "No";
+    public long ac() {
+        return 222;
     }
 
-    public void ab() {
-        System.out.println();
+    public double ee() {
+        return 100.500;
     }
 }

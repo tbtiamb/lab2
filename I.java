@@ -4,11 +4,11 @@ public class I extends null {
 
     int af();
 
-    public java.util.List<String> jj() {
-        return new java.util.ArrayList<String>();
+    public double ee() {
+        return java.lang.Math.PI;
     }
 
-    public byte oo() {
-        return 2;
+    public int hh() {
+        return new java.util.Random().nextInt();
     }
 }

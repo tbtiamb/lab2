@@ -4,11 +4,11 @@ public class B extends null {
 
     double ee();
 
-    public long dd() {
-        return 100500;
+    public int ae() {
+        return java.lang.Math.abs(-6);
     }
 
-    public java.util.Random mm() {
-        return new java.util.Random();
+    public String kk() {
+        return "No";
     }
 }

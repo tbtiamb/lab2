@@ -12,16 +12,16 @@ public class E extends null {
         return 222;
     }
 
-    public java.lang.Class qq() {
-        return getClass();
-    }
-
     public int af() {
         return -1;
     }
 
     public Object gg() {
         return return getClass().getClassLoader();
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
     }
 
     public double ee() {
@@ -32,11 +32,15 @@ public class E extends null {
         return 1;
     }
 
-    public Object rr() {
-        return null;
+    public float ff() {
+        return 0;
     }
 
     public java.util.Random mm() {
         return new java.util.Random();
+    }
+
+    public java.util.List<String> jj() {
+        return new java.util.LinkedList<String>();
     }
 }
